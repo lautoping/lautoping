@@ -1,4 +1,4 @@
-### Hola, soy Lautaro 👋
+### Hola, soy Lautaro 
 
 Estudiante de **Ingeniería en Mecatrónica** (UNCuyo). Me gusta llevar las cosas de punta a punta: desde el firmware de un microcontrolador hasta la app que usa alguien todos los días.
 
